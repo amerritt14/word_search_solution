@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    word_search_solution (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  word_search_solution!
+
+BUNDLED WITH
+   1.13.0
